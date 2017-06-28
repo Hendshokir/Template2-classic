@@ -1,0 +1,35 @@
+
+== font ==
+- Raleway
+
+== font awesomeicons ==
+- facebook , google , twitter , laptop and so on.
+- fa-fw : fixed width
+- fa-4x : icon size
+
+== html ==
+- data-value :custome attribute
+- clear-fix 
+
+== css ==
+- z-index
+- transition
+- element:nth-child(n) 
+== jquery ==
+functions :
+- height()
+- resize()
+- addClass & removeClass
+- siblings() & parent()
+- .each() : check each item
+- fadeIn & fadeOut
+
+
+plugins :
+- bxslider &  options : pager , controls
+- mixItUp shuffle
+- niceScroll & options : cursorcolor , cursorborder , cursorwidth ,..
+
+
+==============
+note : everything works well except making bxslider content in the center of header and Outo Slide in Testimonail section.
